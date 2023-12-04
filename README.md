@@ -48,7 +48,17 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img  />
-  
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/fuadafif/fuadafif/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fuadafif&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<!--     <img align="left" alt="GitHub Stats" src="https://github-readme-stats-fuadafifs-projects.vercel.app/api?username=fuadafif&show_icons=true&theme=tokyonight" /> -->
+  <br/>
+  
 </div>
